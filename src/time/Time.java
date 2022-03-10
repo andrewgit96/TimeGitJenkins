@@ -23,7 +23,7 @@ public class Time
 {
 	public static void main(String[] args) 
 	{
-		int totalSeconds = getTotalSeconds("10:10:10:000");
+		int totalSeconds = getTotalSeconds("Github 10:10:10:000");
 		System.out.println("Total Seconds = " + totalSeconds);
 		/* Removed for ICE 6
 		try
